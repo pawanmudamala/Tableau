@@ -1,0 +1,8 @@
+CarID,Model,Year,Price,ManufacturerID,DealerID
+1,Accord,2022,30000.00,1,101
+2,Civic,2023,25000.00,1,101
+3,Camry,2023,32000.00,2,102
+4,Corolla,2022,23000.00,2,102
+5,Mustang,2023,40000.00,3,103
+6,Explorer,2022,35000.00,3,103
+7,Camry,2023,100000.00,2,102
